@@ -1,3 +1,4 @@
+![Header](https://github.com/starbat13/starbat13/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Bright Tweneboah Anyan</h1>
 <h3 align="center">A passionate web developer from Ghana</h3>
 
